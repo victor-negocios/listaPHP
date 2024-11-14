@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+}
+.form{
+    margin-left: 10px;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: bold;
+    color:#FAFFFA;
+    font-family: "Open Sans",sans-serif; 
+    padding: 15px;
+}
+
+.table{
+    text-align: center;
+}
